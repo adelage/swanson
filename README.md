@@ -8,4 +8,6 @@ Deployed via Zeit's [now](https://zeit.co/now).
 
 TODO
 ----------
-- [ ] Add more characters (April, Andy, Jean-Ralphio, etc.)
+- Add more characters (April, Andy, Jean-Ralphio, etc.)
+- Add better synonym functionality
+- Move quotes to a database
