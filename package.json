@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adelage/swanson-quotes"
+    "url": "https://github.com/adelage/swanson"
   },
   "dependencies": {
     "micro": "^6.1.0",
