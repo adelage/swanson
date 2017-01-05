@@ -10,4 +10,5 @@ TODO
 ----------
 - Add more characters (April, Andy, Jean-Ralphio, etc.)
 - Add better synonym functionality
+- Move to Google App Engine
 - Move quotes to a database
